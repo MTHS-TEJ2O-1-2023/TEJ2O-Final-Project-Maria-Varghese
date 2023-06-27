@@ -1,13 +1,24 @@
-# TEJ2O ⇢ Unit #X-YY
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+> Open this page at [https://mr-coxall.github.io/javscript-template/](https://mr-coxall.github.io/javscript-template/)
 
-[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](./LICENSE)
+## Use as Extension
 
-## To Build *.hex for Micro:bit
+This repository can be added as an **extension** in MakeCode.
 
-Run the following command in the terminal, where your *.py file is located:
+* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* click on **New Project**
+* click on **Extensions** under the gearwheel menu
+* search for **https://github.com/mr-coxall/javscript-template** and import
 
-``` bash
-py2hex ./main.py
-```
+## Edit this project
+
+To edit this repository in MakeCode.
+
+* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/mr-coxall/javscript-template** and click import
+
+#### Metadata (used for search, rendering)
+
+* for PXT/microbit
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>

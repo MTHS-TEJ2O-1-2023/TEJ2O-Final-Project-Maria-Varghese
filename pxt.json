@@ -1,5 +1,5 @@
 {
-    "name": "javascript test",
+    "name": "JavScript Template",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,6 +9,9 @@
     "files": [
         "main.ts",
         "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
     ],
     "targetVersions": {
         "target": "6.0.8",
