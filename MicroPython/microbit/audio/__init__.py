@@ -84,7 +84,6 @@ class SoundEffect(
     fx=FX_NONE,
     shape=SHAPE_LOG,
 ):
-
     """An SoundEffect instance represents a sound effect, composed by a set of parameters
     configured via the constructor or attributes.
 
