@@ -82,7 +82,7 @@ class SoundEffect(
     vol_end=0,
     waveform=WAVEFORM_SQUARE,
     fx=FX_NONE,
-    shape=SHAPE_LOG
+    shape=SHAPE_LOG,
 ):
 
     """An SoundEffect instance represents a sound effect, composed by a set of parameters
